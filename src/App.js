@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.shutterstock.com/search/goofy-cat?dd_referrer=https%3A%2F%2Fwww.google.com%2F"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          ungi
         </a>
       </header>
     </div>
